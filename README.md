@@ -1,5 +1,17 @@
 ## Bem-vindo(a) ao perfil da Esther Nascimento 😁
 
+🚀 Criando, Codando e Compondo
+Oi! Eu sou a Esther ✨ Transformo código 💻 em experiências, música 🎶 em inspiração e design 🎨 em conexão!
+
+🎨 Código com Alma
+Cada linha de código é uma história. Cada projeto, uma nova criação. Unindo tecnologia e arte para inovar 🚀.
+
+📚 Criatividade, inovação e colaboração me movem 💡.
+🌎 Vamos Criar Algo Juntos?
+Se você ama tecnologia e arte, já temos algo em comum! 💚
+
+
+
  <div>
    <a href="https://github.com/esthernascimento">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esthernascimento&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
