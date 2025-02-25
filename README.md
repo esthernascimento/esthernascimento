@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Esther Nascimento 😁
+## Bem-vindo(a) ao perfil da Esther Nascimento 👽
 
 🚀 Criando, Codando e Compondo
 Oi! Eu sou a Esther ✨ Transformo código 💻 em experiências, música 🎶 em inspiração e design 🎨 em conexão!
@@ -29,7 +29,7 @@ Se você ama tecnologia e arte, já temos algo em comum! 💚
  
  <br>
  
-  ### Minhas redes socias, segue ai! 👽 🪩 🎶
+  ### Minhas redes socias, segue ai! 🪩 🎶
  
 <div> 
   <a href="https://www.instagram.com/esthernascimentooficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
