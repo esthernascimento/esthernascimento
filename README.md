@@ -1,11 +1,11 @@
 ## Bem-vindo(a) ao perfil da Esther Nascimento 👽
 
-🚀 Criando, Codando e Compondo
+Criando, Codando e Compondo
 Oi! Eu sou a Esther ✨ Transformo código em experiências  💻 , música em inspiração  🎶  e design em conexão!
 
-🎨 Cada linha de código é uma história. Cada projeto, uma nova criação. Unindo tecnologia e arte para inovar 🚀.
+🎨 Cada linha de código é uma história. Cada projeto, uma nova criação. Unindo tecnologia e arte para inovar.
 
-📚 Criatividade, inovação e colaboração me movem 💡.
+Criatividade, inovação e colaboração me movem 💡.
 🌎 Vamos Criar Algo Juntos?
 Se você ama tecnologia e arte, já temos algo em comum! 💚
 
