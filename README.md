@@ -1,30 +1,25 @@
-## 👽 Bem-vindo(a) ao perfil da Esther Nascimento
+<h1 align="center"> 👽 Olá, eu sou a Esther Nascimento! </h1>
 
-### Criando, Codando e Compondo
-
-Oi! Eu sou a Esther ✨ Transformo código em experiências 💻, música em inspiração 🎶 e design em conexão!
-
-🎨 Cada linha de código é uma história.  
-Cada projeto, uma nova criação.  
-Unindo tecnologia e arte para inovar.
-
-💡 Criatividade, inovação e colaboração me movem.  
-🌎 Vamos Criar Algo Juntos?  
-Se você ama tecnologia e arte, já temos algo em comum!
+<p align="center">
+   Desenvolvedora criativa apaixonada por tecnologia, música e design.  
+  💡 Transformo ideias em código, sonhos em projetos e sentimentos em arte.
+</p>
 
 ---
 
-<table border="0">
+### Se você ama tecnologia e arte, já temos algo em comum!
+
+<table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthernascimento&theme=default&layout=donut-vertical&count_private=true&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthernascimento&theme=radical&layout=donut-vertical&count_private=true&langs_count=8" />
     </td>
     <td>
       <a href="https://github.com/esthernascimento">
-        <img src="https://streak-stats.demolab.com?user=esthernascimento&theme=default&hide_border=true&exclude_days=Sun%2CSat" />
+        <img src="https://streak-stats.demolab.com?user=esthernascimento&theme=radical&hide_border=true&exclude_days=Sun%2CSat" />
       </a><br><br>
       <a href="https://github.com/esthernascimento">
-        <img src="https://github-readme-stats.vercel.app/api?username=esthernascimento&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&border_radius=16" />
+        <img src="https://github-readme-stats.vercel.app/api?username=esthernascimento&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=16" />
       </a>
     </td>
   </tr>
@@ -32,7 +27,7 @@ Se você ama tecnologia e arte, já temos algo em comum!
 
 ---
 
-### 🪩 Tecnologias que uso
+### Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -48,7 +43,7 @@ Se você ama tecnologia e arte, já temos algo em comum!
 
 ---
 
-### 🎵 Minhas redes sociais
+### Minhas redes sociais
 
 <div>
   <a href="https://www.instagram.com/esthernascimentooficial/" target="_blank">
