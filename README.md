@@ -49,9 +49,6 @@
   <a href="https://www.instagram.com/esthernascimentooficial/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23e1306c?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@esthernascimentooficial" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23ff0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
   <a href="mailto:esthersolzinhacarambola@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%234caf50?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
