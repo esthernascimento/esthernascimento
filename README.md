@@ -2,22 +2,21 @@
 
 <p align="center">
   💡 Desenvolvedora criativa apaixonada por <strong>tecnologia</strong>, <strong>música</strong> e <strong>design</strong>.<br>
-  🎨 Transformo ideias em código, sonhos em projetos e sentimentos em arte.
+   • Transformo ideias em código, sonhos em projetos e sentimentos em arte.
 </p>
 
 ---
 
-### ✨ Soft Skills
+### 💬 Soft Skills
 
-- 🤝 Comunicação empática e clara  
-- 🧠 Pensamento criativo e analítico  
-- 💬 Facilidade com trabalho em equipe e resolução de problemas  
-- 🧘‍♀️ Organização, resiliência e inteligência emocional  
-- 🎯 Foco em resultados com carinho pelos detalhes
+- • Comunicação empática e clara  
+- • Facilidade com trabalho em equipe e resolução de problemas  
+- • Organização e resiliência.  
+- • Foco em resultados com carinho pelos detalhes  
 
 ---
 
-### 🚀 Se você ama tecnologia e arte, já temos algo em comum!
+### 💻 Se você ama tecnologia e arte, já temos algo em comum!
 
 <table>
   <tr>
@@ -26,7 +25,7 @@
     </td>
     <td>
       <a href="https://github.com/esthernascimento">
-        <img src="https://streak-stats.demolab.com?user=esthernascimento&theme=radical&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=esthernascimento&theme=radical&hide_border=true" alt="GitHub Streak"/>
       </a><br><br>
       <a href="https://github.com/esthernascimento">
         <img src="https://github-readme-stats.vercel.app/api?username=esthernascimento&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=16" alt="GitHub Stats"/>
@@ -37,23 +36,22 @@
 
 ---
 
-### 🛠️ Tecnologias
+### 👩🏻‍💻 Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 
 ---
 
-### 🌐 Onde me encontrar
+### 🪩 Onde me encontrar
 
 <div>
   <a href="https://www.instagram.com/esthernascimentooficial/" target="_blank">
