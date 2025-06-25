@@ -2,17 +2,17 @@
 
 <p align="center">
   💡 Desenvolvedora criativa apaixonada por <strong>tecnologia</strong>, <strong>música</strong> e <strong>design</strong>.<br>
-   • Transformo ideias em código, sonhos em projetos e sentimentos em arte.
+   Transformo ideias em código, sonhos em projetos e sentimentos em arte.
 </p>
 
 ---
 
 ### 💬 Soft Skills
 
-- • Comunicação empática e clara  
-- • Facilidade com trabalho em equipe e resolução de problemas  
-- • Organização e resiliência.  
-- • Foco em resultados com carinho pelos detalhes  
+- Comunicação empática e clara.
+- Facilidade com trabalho em equipe e resolução de problemas  
+- Organização e resiliência.  
+- Foco em resultados com carinho pelos detalhes.
 
 ---
 
