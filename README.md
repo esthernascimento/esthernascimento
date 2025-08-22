@@ -1,7 +1,9 @@
-<h1 align="center">👽 Olá, eu sou a Esther Nascimento!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👽+Olá%2C+eu+sou+a+Esther+Nascimento!" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  💡 Desenvolvedora criativa apaixonada por <strong>tecnologia</strong>, <strong>música</strong> e <strong>design</strong>.<br>
+  Desenvolvedora criativa apaixonada por <strong>tecnologia</strong>, <strong>música</strong> e <strong>design</strong>.<br>
    Transformo ideias em código, sonhos em projetos e sentimentos em arte.
 </p>
 
