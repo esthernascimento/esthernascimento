@@ -1,22 +1,30 @@
+
+
+<p align="center">
+  <img src="https://gifdb.com/images/high/nintendo-super-mario-prank-his-brother-luigi-lqk9dd9c9hcgzf0s.gif" width="1000" alt="Luigi GIF"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👽+Olá%2C+eu+sou+a+Esther+Nascimento!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Desenvolvedora criativa apaixonada por <strong>tecnologia</strong>, <strong>música</strong> e <strong>design</strong>.<br>
-   Transformo ideias em código, sonhos em projetos e sentimentos em arte.
+  Estudante de <strong>Desenvolvimento de Sistemas</strong> na <strong>ETEC de Guaianazes</strong>.<br>
+  Desenvolvedora apaixonada por <strong>tecnologia</strong> e com foco especial em <strong>desenvolvimento Frontend</strong>.<br>
+  Amo transformar ideias em código e criar experiências digitais criativas e funcionais. 💚
 </p>
 
 ---
 
 ### 💬 Soft Skills
 
-- Comunicação empática e clara.
-- Facilidade com trabalho em equipe e resolução de problemas  
+- Comunicação empática e clara.  
+- Facilidade com trabalho em equipe e resolução de problemas.  
 - Organização e resiliência.  
-- Foco em resultados com carinho pelos detalhes.
+- Foco em resultados com carinho pelos detalhes.  
 
 ---
+
 
 ### 💻 Se você ama tecnologia e arte, já temos algo em comum!
 
@@ -46,11 +54,16 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
+   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+    <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
 </div>
 
