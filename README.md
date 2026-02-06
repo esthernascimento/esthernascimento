@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
-  Estudante de <strong>Desenvolvimento de Sistemas</strong> na <strong>ETEC de Guaianazes</strong>.<br>
-  Desenvolvedora apaixonada por <strong>tecnologia</strong> e com foco especial em <strong>desenvolvimento Frontend</strong>.<br>
-  Amo transformar ideias em código e criar experiências digitais criativas e funcionais. 💚
+  🎓 Técnica em <strong>Desenvolvimento de Sistemas</strong> pela <strong>ETEC de Guaianazes</strong><br>
+  💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>SPTech</strong><br><br>
+  Desenvolvedora <strong>apaixonada</strong>!<br>
+  Gosto de unir lógica e estética para transformar ideias em experiências reais muito legais!. 💚
 </p>
+
 
 ---
 
