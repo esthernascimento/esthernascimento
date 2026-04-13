@@ -99,7 +99,9 @@ const esther = {
 ✔ Organização e resiliência
 ✔ Foco em resultados com carinho pelos detalhes
 ```
-
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=esthernascimento&style=flat-square&color=8f2c5b" /></p> 
+</div>
 ---
 
 ## 🪩 Onde me encontrar
